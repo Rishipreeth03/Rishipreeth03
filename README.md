@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ch.Rishipreeth</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **AI and DevOps**
 
 - 💬 Ask me about **Web Development**
 
